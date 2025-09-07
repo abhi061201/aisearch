@@ -6,6 +6,10 @@ An intelligent product recommendation system that uses natural language processi
 
 This React Native application acts as an "AI Product Advisor" that allows users to describe their needs in plain English and receive intelligent product recommendations powered by Google's Gemini AI. The app features smart filtering, custom logging, and a modern UI with advanced features like expandable summaries and sorting options.
 
+## Sample 
+
+https://github.com/user-attachments/assets/6a5ba40a-dccd-4f8f-9081-2b05fd087555
+
 ## 🏗️ Architecture
 
 ### High-Level Component Structure

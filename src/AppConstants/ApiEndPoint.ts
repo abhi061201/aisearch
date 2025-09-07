@@ -3,8 +3,9 @@ export const BaseUrl = 'https://api.example.com'; // Replace with your actual ba
 
 // Gemini AI Configuration
 export const GEMINI_CONFIG = {
-  API_KEY: 'AIzaSyAZEBJhvC2ud2MIdKKkVDgW2_ve4WHGe80',
-  BASE_URL: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent',
+  API_KEY: 'AIzaSyAZEBJhvC2u**this is wrong api key**80',
+  BASE_URL:
+    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent',
 };
 
 // Alternative AI APIs (you can switch between these)
